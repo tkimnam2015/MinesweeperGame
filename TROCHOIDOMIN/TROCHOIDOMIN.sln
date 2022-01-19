@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TROCHOIDOMIN", "TROCHOIDOMIN\TROCHOIDOMIN.csproj", "{0C30E803-1B39-434E-8E7C-1C44F747A809}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DM", "DM\DM.vdproj", "{3DB7104E-680D-433D-9AA7-C52A6D2E0A06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C30E803-1B39-434E-8E7C-1C44F747A809}.Debug|x86.ActiveCfg = Debug|x86
+		{0C30E803-1B39-434E-8E7C-1C44F747A809}.Debug|x86.Build.0 = Debug|x86
+		{0C30E803-1B39-434E-8E7C-1C44F747A809}.Release|x86.ActiveCfg = Release|x86
+		{0C30E803-1B39-434E-8E7C-1C44F747A809}.Release|x86.Build.0 = Release|x86
+		{3DB7104E-680D-433D-9AA7-C52A6D2E0A06}.Debug|x86.ActiveCfg = Debug
+		{3DB7104E-680D-433D-9AA7-C52A6D2E0A06}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D5C5826-6FE1-4B7C-B7EA-081B7C7573B4}
+	EndGlobalSection
+EndGlobal
